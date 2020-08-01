@@ -73,3 +73,6 @@ make my own packaging experience better.
 .. _PyPi: https://pypi.python.org/pypi
 .. _ReadTheDocs: https://readthedocs.io/
 .. _Sphinx: http://sphinx-doc.org/
+
+# another reference:
+https://github.com/wboxx1/cookiecutter-pypackage-poetry
